@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+#Solidworks working files are like this: ~$clock.SLDASM
+\~\$*
+
 # Folder config file
 Desktop.ini
 
